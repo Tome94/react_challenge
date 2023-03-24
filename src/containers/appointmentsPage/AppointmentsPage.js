@@ -5,7 +5,7 @@ export const AppointmentsPage = () => {
   Define state variables for 
   appointment info
   */
-
+// eslint-disable-next-line 
   const handleSubmit = (e) => {
     e.preventDefault();
     /*
